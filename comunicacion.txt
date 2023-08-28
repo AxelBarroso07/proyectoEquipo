@@ -1,2 +1,5 @@
 Luciana hace css.
 Nicolas hace productos.
+
+
+* NICO: productos.html terminado
